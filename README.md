@@ -19,8 +19,11 @@ https://developer.apple.com/documentation/security/1643698-seckeycopyexternalrep
 Pods used in this project
 
 https://github.com/airsidemobile/JOSESwift
+
 https://github.com/xmartlabs/Eureka
+
 https://github.com/groue/GRDB.swift
+
 https://github.com/vinodiOS/SwiftQRCodeScanner
 
 
