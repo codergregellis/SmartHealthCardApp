@@ -1,0 +1,6 @@
+framework module Pods_smartapp {
+  umbrella header "Pods-smartapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
