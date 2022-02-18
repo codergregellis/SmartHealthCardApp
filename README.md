@@ -4,6 +4,7 @@ Example Swift iOS app that reads Smart Health Card QR codes, displays patient in
 Links:
 
 Smart Health Card Technical Specifications
+
 https://spec.smarthealth.cards
 
 JSON Web Signature Specifications
